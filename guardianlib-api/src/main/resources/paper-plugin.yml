@@ -1,0 +1,8 @@
+name: guardianlib-api
+version: '1.0.0'
+main: net.rubixdevelopment.guardianlibApi.GuardianLibApi
+api-version: '1.21'
+load: STARTUP
+authors: [FloorNectarine]
+description: Guardian Official Plugin
+website: guardianlib.servepoint.be
